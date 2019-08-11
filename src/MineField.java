@@ -1,8 +1,3 @@
-// Name: Alay Dilipbhai Shah
-// USC NetID: 4038-9488-19
-// CS 455 PA3
-// Spring 2019
-
 import java.util.Arrays;
 import java.util.Random;
 
